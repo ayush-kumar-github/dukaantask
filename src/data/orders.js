@@ -1,0 +1,123 @@
+const orders = [
+  {
+    orderId: "ORD001",
+    orderDate: "2024-01-10",
+    orderAmount: 50.99,
+    transactionFees: 2.5,
+  },
+  {
+    orderId: "ORD002",
+    orderDate: "2024-01-11",
+    orderAmount: 75.49,
+    transactionFees: 3.2,
+  },
+  {
+    orderId: "ORD003",
+    orderDate: "2024-01-12",
+    orderAmount: 120.0,
+    transactionFees: 4.0,
+  },
+  {
+    orderId: "ORD004",
+    orderDate: "2024-01-13",
+    orderAmount: 90.25,
+    transactionFees: 2.0,
+  },
+  {
+    orderId: "ORD005",
+    orderDate: "2024-01-14",
+    orderAmount: 110.5,
+    transactionFees: 3.5,
+  },
+  {
+    orderId: "ORD006",
+    orderDate: "2024-01-15",
+    orderAmount: 60.75,
+    transactionFees: 2.8,
+  },
+  {
+    orderId: "ORD007",
+    orderDate: "2024-01-16",
+    orderAmount: 80.0,
+    transactionFees: 3.0,
+  },
+  {
+    orderId: "ORD008",
+    orderDate: "2024-01-17",
+    orderAmount: 45.99,
+    transactionFees: 2.2,
+  },
+  {
+    orderId: "ORD009",
+    orderDate: "2024-01-18",
+    orderAmount: 100.2,
+    transactionFees: 4.5,
+  },
+  {
+    orderId: "ORD010",
+    orderDate: "2024-01-19",
+    orderAmount: 55.5,
+    transactionFees: 2.3,
+  },
+  {
+    orderId: "ORD011",
+    orderDate: "2024-01-20",
+    orderAmount: 70.3,
+    transactionFees: 3.8,
+  },
+  {
+    orderId: "ORD012",
+    orderDate: "2024-01-21",
+    orderAmount: 95.75,
+    transactionFees: 4.2,
+  },
+  {
+    orderId: "ORD013",
+    orderDate: "2024-01-22",
+    orderAmount: 130.0,
+    transactionFees: 5.0,
+  },
+  {
+    orderId: "ORD014",
+    orderDate: "2024-01-23",
+    orderAmount: 82.4,
+    transactionFees: 3.3,
+  },
+  {
+    orderId: "ORD015",
+    orderDate: "2024-01-24",
+    orderAmount: 88.9,
+    transactionFees: 4.8,
+  },
+  {
+    orderId: "ORD016",
+    orderDate: "2024-01-25",
+    orderAmount: 40.5,
+    transactionFees: 1.9,
+  },
+  {
+    orderId: "ORD017",
+    orderDate: "2024-01-26",
+    orderAmount: 60.8,
+    transactionFees: 2.7,
+  },
+  {
+    orderId: "ORD018",
+    orderDate: "2024-01-27",
+    orderAmount: 105.25,
+    transactionFees: 4.3,
+  },
+  {
+    orderId: "ORD019",
+    orderDate: "2024-01-28",
+    orderAmount: 73.6,
+    transactionFees: 3.7,
+  },
+  {
+    orderId: "ORD020",
+    orderDate: "2024-01-29",
+    orderAmount: 115.0,
+    transactionFees: 4.7,
+  },
+];
+export default orders;
